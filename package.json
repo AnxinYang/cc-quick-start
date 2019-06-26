@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnxinYang/gallery.git"
+    "url": "git+https://github.com/AnxinYang/cc-quick-start.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnxinYang/gallery/issues"
+    "url": "https://github.com/AnxinYang/cc-quick-start/issues"
   },
-  "homepage": "https://github.com/AnxinYang/gallery#readme",
+  "homepage": "https://github.com/AnxinYang/cc-quick-start#readme",
   "dependencies": {
     "d3": "^5.7.0",
     "d3-time-format": "^2.1.1",
